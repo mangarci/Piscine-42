@@ -1,0 +1,5 @@
+Credentials cache: API:321E541A-7043-4D9C-93FB-B58EF3D70B86
+        Principal: mangarci@42MADRID.COM
+
+  Issued                Expires             Flags    Principal
+Sep 30 14:23:11 2019  Oct  1 00:23:07 2019  FPIA   krbtgt/42MADRID.COM@42MADRID.COM
